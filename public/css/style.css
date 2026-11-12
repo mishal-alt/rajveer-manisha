@@ -1805,3 +1805,4 @@ html[lang="hi"] .scene--hero.text-ready .hero-chingam{opacity:1}
 html[lang="hi"] body,html[lang="hi"] body *{font-weight:600 !important;font-style:normal !important}
 html[lang="hi"] h1,html[lang="hi"] h2,html[lang="hi"] h3,html[lang="hi"] .sec-title,html[lang="hi"] .landing-names .n,html[lang="hi"] .hero-names__n,html[lang="hi"] .person-name,html[lang="hi"] .family-name,html[lang="hi"] .venue-name,html[lang="hi"] .tl-title,html[lang="hi"] .fact-v,html[lang="hi"] .gratitude-names,html[lang="hi"] em,html[lang="hi"] .btn-open__en{font-weight:700 !important}
 html[lang="hi"] .hero-names__n,html[lang="hi"] .landing-names .n{font-weight:800 !important}
+.portrait .portrait-img{object-position:center 18%}
